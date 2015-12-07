@@ -11,9 +11,4 @@ My name is Jeff Terstriep. I'm the president of [LEAMgroup, Inc.](http://leamgro
 
 
 
-## My Recent Projects
-
-
-
-
 
